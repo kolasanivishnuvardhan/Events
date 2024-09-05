@@ -1,0 +1,35 @@
+.registrations-closed-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 75%;
+}
+
+.registrations-closed-img {
+  width: 30%;
+}
+
+.registrations-closed-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #323f4b;
+  text-align: center;
+}
+
+.registrations-closed-description {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #64748b;
+  text-align: center;
+}
+
+.register-btn {
+  background-color: #0967d2;
+  border: 1px solid #0967d2;
+  border-radius: 8px;
+  padding: 5px 10px 5px 10px;
+  color: #f8fafc;
+  cursor: pointer;
+  outline: none;
+}

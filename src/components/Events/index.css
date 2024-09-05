@@ -1,0 +1,36 @@
+.events-container {
+  display: flex;
+  flex-direction: row;
+  min-height: 100vh;
+}
+
+.events-items-container {
+  width: 65%;
+  background-color: #3a4b63;
+  min-height: 100vh;
+}
+
+.events-name {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #ffffff;
+  margin-left: 60px;
+}
+
+.items-container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.registration-status-container {
+  width: 35%;
+  padding: 10px;
+}
+
+.initial-description {
+  color: #64748b;
+  font-family: Roboto;
+  font-size: 20px;
+}
